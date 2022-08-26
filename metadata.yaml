@@ -1,0 +1,40 @@
+_repo: Tulevaisuudenunelmia_68793
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Halla, Tuovi
+    gutenberg_agent_id: '54950'
+    url: http://www.gutenberg.org/2009/agents/54950
+creator:
+  author:
+    agent_name: Flygare-Carlén, Emilie
+    aliases:
+    - Flygare-Carlen, Emilie (Smith)
+    - Carlén, Emilie Schmidt
+    - Flygare, Emilie
+    - Carlénová, Emilie Flygaré
+    - Carlenova, Emilie Flygare
+    birthdate: 1807
+    deathdate: 1892
+    gutenberg_agent_id: '6695'
+    url: http://www.gutenberg.org/2009/agents/6695
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Emilie_Flygare-Carl%C3%A9n
+    - https://sv.wikipedia.org/wiki/Emilie_Flygare-Carl%C3%A9n
+description: ''
+gutenberg_issued: '2022-08-20'
+identifiers:
+  gutenberg: '68793'
+language: fi
+pgterms:marc905: 20220218014430flygarecar
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tulevaisuudenunelmia
+url: http://www.gutenberg.org/ebooks/68793
