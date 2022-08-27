@@ -5,6 +5,9 @@ contributor:
     agent_name: Halla, Tuovi
     gutenberg_agent_id: '54950'
     url: http://www.gutenberg.org/2009/agents/54950
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Flygare-Carlén, Emilie
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Emilie_Flygare-Carl%C3%A9n
     - https://sv.wikipedia.org/wiki/Emilie_Flygare-Carl%C3%A9n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68793#Tulevaisuudenunelmia
 gutenberg_issued: '2022-08-20'
 identifiers:
   gutenberg: '68793'
